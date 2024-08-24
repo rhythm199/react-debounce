@@ -1,0 +1,226 @@
+{
+  "status": 200,
+  "total_results": 20,
+  "restaurants": [
+    {
+      "title": "Joe's Diner",
+      "extract": "A classic American diner serving comfort food 24/7.",
+      "address": "123 Main St, Springfield, IL",
+      "pageid": "1",
+      "thumbnail": {
+        "source": "https://t4.ftcdn.net/jpg/02/68/16/29/360_F_268162985_PVWnFAO3efmWbIj9spsGXgA8q2M2N22c.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Pasta Paradise",
+      "extract": "Family-owned Italian restaurant specializing in homemade pasta.",
+      "address": "456 Oak St, New York, NY",
+      "pageid": "2",
+      "thumbnail": {
+        "source": "https://st4.depositphotos.com/8911320/40426/i/1600/depositphotos_404261588-stock-photo-render-cafe-restaurant-interior.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Taco Fiesta",
+      "extract": "Vibrant Mexican eatery offering street-style tacos and margaritas.",
+      "address": "789 Elm St, Austin, TX",
+      "pageid": "3",
+      "thumbnail": {
+        "source": "https://previews.123rf.com/images/mtellioglu/mtellioglu1902/mtellioglu190200024/116727954-3d-render-luxury-cafe-restaurant.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "The Green Spot",
+      "extract": "Farm-to-table restaurant focusing on sustainable, organic ingredients.",
+      "address": "101 Pine St, Portland, OR",
+      "pageid": "4",
+      "thumbnail": {
+        "source": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Vwd2s2MTY2MTU3Ny13aWtpbWVkaWEtaW1hZ2Uta293YXBlZWouanBn.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Steakhouse 101",
+      "extract": "Upscale steakhouse known for prime cuts and an extensive wine list.",
+      "address": "202 Market St, Chicago, IL",
+      "pageid": "5",
+      "thumbnail": {
+        "source": "https://rishikeshcamps.in/wp-content/uploads/2023/05/restaarant.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Sushi Zen",
+      "extract": "Modern sushi bar offering creative rolls and traditional sashimi.",
+      "address": "303 Pearl St, San Francisco, CA",
+      "pageid": "6",
+      "thumbnail": {
+        "source": "https://techcrunch.com/wp-content/uploads/2015/08/shutterstock_237882754.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Burger Barn",
+      "extract": "Casual spot serving gourmet burgers with creative toppings.",
+      "address": "404 Maple St, Nashville, TN",
+      "pageid": "7",
+      "thumbnail": {
+        "source": "https://assets.cntraveller.in/photos/63d8e5103d7229d4cf308f01/16:9/w_1024%2Cc_limit/Prequel-lead.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "BBQ Haven",
+      "extract": "Southern-style BBQ joint famous for slow-smoked ribs and brisket.",
+      "address": "505 Cedar St, Atlanta, GA",
+      "pageid": "8",
+      "thumbnail": {
+        "source": "https://t4.ftcdn.net/jpg/02/94/26/33/360_F_294263329_1IgvqNgDbhmQNgDxkhlW433uOFuIDar4.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Dim Sum House",
+      "extract": "Authentic Cantonese restaurant specializing in dim sum and tea.",
+      "address": "606 Birch St, Los Angeles, CA",
+      "pageid": "9",
+      "thumbnail": {
+        "source": "https://c8.alamy.com/compfr/2cd1nkk/3d-render-of-cafe-restaurant-2cd1nkk.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Pizza Perfection",
+      "extract": "New York-style pizzeria known for hand-tossed crust and fresh toppings.",
+      "address": "707 Pine St, Boston, MA",
+      "pageid": "10",
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/800px-Restaurant_N%C3%A4sinneula.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Vegan Vibes",
+      "extract": "Trendy vegan spot offering creative, plant-based dishes.",
+      "address": "808 Cedar St, Seattle, WA",
+      "pageid": "11",
+      "thumbnail": {
+        "source": "https://assets.architecturaldigest.in/photos/64f84cc61d4896b633fba77a/master/w_1600%2Cc_limit/The%2520art%2520deco%2520inspired%2520de%25CC%2581cor%2520of%2520CIRQA%25201960%2520.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Ramen Republic",
+      "extract": "Cozy ramen shop featuring traditional and fusion ramen bowls.",
+      "address": "909 Maple St, Denver, CO",
+      "pageid": "12",
+      "thumbnail": {
+        "source": "https://media-cdn.tripadvisor.com/media/photo-s/02/98/ff/cf/filename-photo-2-1-jpg.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Seafood Shack",
+      "extract": "Casual seafood spot offering fresh catches and ocean-inspired dishes.",
+      "address": "1010 Shoreline Dr, Miami, FL",
+      "pageid": "13",
+      "thumbnail": {
+        "source": "https://assets.architecturaldigest.in/photos/61db1eed472e5c4d0d4c8dd8/1:1/w_3983,h_3983,c_limit/Main%20seating%20area%20Ekaa.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Bistro Bella",
+      "extract": "Charming French bistro with classic dishes and a cozy atmosphere.",
+      "address": "1111 River St, New Orleans, LA",
+      "pageid": "14",
+      "thumbnail": {
+        "source": "https://media.cntraveler.com/photos/654bd5e13892537a8ded0947/16:9/w_2560%2Cc_limit/phy2023.din.oss.restaurant-lr.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Soul Food Kitchen",
+      "extract": "Homestyle soul food served in a warm, welcoming setting.",
+      "address": "1212 Hill St, Memphis, TN",
+      "pageid": "15",
+      "thumbnail": {
+        "source": "https://www.touchbistro.com/wp-content/uploads/2021/08/restaurant-interior-design-ideas-thumbnail.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Tapas Time",
+      "extract": "Lively tapas bar offering small plates and an extensive wine list.",
+      "address": "1313 Lake St, San Diego, CA",
+      "pageid": "16",
+      "thumbnail": {
+        "source": "https://i0.wp.com/www.re-thinkingthefuture.com/wp-content/uploads/2021/06/A4395-50-Top-Restuarants-with-beautiful-Interior-Design.jpg?w=999",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Cafe Bonjour",
+      "extract": "Cozy cafe known for artisanal coffee and fresh pastries.",
+      "address": "1414 Oak St, Philadelphia, PA",
+      "pageid": "17",
+      "thumbnail": {
+        "source": "https://modernrestaurantmanagement.com/assets/media/2021/03/Getty_629200476-1200x655.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Crepe Corner",
+      "extract": "A delightful creperie serving sweet and savory crepes.",
+      "address": "1515 Maple St, Orlando, FL",
+      "pageid": "18",
+      "thumbnail": {
+        "source": "https://assets.gqindia.com/photos/62a9d4653e8cdc9b632eb2ad/master/pass/10%20restaurants%20in%20Mumbai%20that%20offer%20the%20best%20sunset%20views.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "The Spice Route",
+      "extract": "Indian restaurant offering bold flavors and authentic dishes.",
+      "address": "1616 Cedar St, Houston, TX",
+      "pageid": "19",
+      "thumbnail": {
+        "source": "https://elledecor.in/wp-content/uploads/2021/12/H14_Restaurant-Listicle.jpg",
+        "width": 200,
+        "height": 150
+      }
+    },
+    {
+      "title": "Pho Palace",
+      "extract": "Viettitlese restaurant specializing in pho and other traditional dishes.",
+      "address": "1717 Pine St, Las Vegas, NV",
+      "pageid": "20",
+      "thumbnail": {
+        "source": "https://cdn.vox-cdn.com/uploads/chorus_image/image/62582192/IMG_2025.280.jpg",
+        "width": 200,
+        "height": 150
+      }
+    }
+  ]
+}
