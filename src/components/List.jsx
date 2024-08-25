@@ -32,7 +32,7 @@ const List = ({ searchTerm }) => {
   };
 
   useEffect(() => {
-      fetchData();
+    fetchData();
   }, [searchTerm]);
 
   return (
@@ -43,9 +43,10 @@ const List = ({ searchTerm }) => {
         <p>Error: {error}</p>
       ) : (
         <ul>
-          {data?.map((item) => (
-            <Restaurant key={item.pageid} result={item} />
-          ))}
+          {data.length > 0 ?
+            data?.map((item) => (
+              <Restaurant key={item.pageid} result={item} />
+            )) : <p>No matching results...</p>}
         </ul>
       )}
     </div>
